@@ -8,8 +8,8 @@
 B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization GirlScript Summer Of Code. 
 Passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a CS student at BVPCOE,Pune.
+- 📚 I’m currently learning frontend web development using html,css,js and react.
 - 👯 I’m looking for a software development internship. 
 
 <h3 align="left">Languages and Tools:</h3>
