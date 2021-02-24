@@ -20,14 +20,18 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 **💬 My inbox is always open, Contact me**
 <br>
 <br>
+
 <a href="https://www.linkedin.com/in/satya-prakash-rout-526491175/">
-<img align="left" alt="Satya Prakash | Linkedin" width="24px" src="images/Linkedln.svg" />
+<img align="left" alt="Satya Prakash | Linkedin" width="24px" src="images/Linkedin.svg" />
 </a>
+
 <a href="mailto:sprout2626@gmail.com">
 <img align="left" alt="Satya Prakash | Gmail" width="26px" src="images/Gmail.svg" />
 </a>
+
 <a href="https://www.instagram.com/boy.who.code/">
 <img align="left" alt="Satya Prakash | Instagram" width="24px" src="images/Instagram.svg" />
 </a>
+
 <br>
 <br>
