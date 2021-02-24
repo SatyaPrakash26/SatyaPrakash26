@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="images/cover-thompson.png" />
-</p>
-<h1 align="center">Hi 👋, I'm Satya Prakash Rout</h1> <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<p align="center"><img src="images/cover-thompson.png" /></p>
+<h1 align="center">Hi 👋, I'm Satya Prakash Rout</h1> 
 
----
-<br/>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## About :sunglasses:
 
 B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization GirlScript Summer Of Code.
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=satyaprakash26&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
