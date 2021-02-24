@@ -14,8 +14,10 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 <br>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=satyaprakash26&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash26&theme=radical&title_color=8E2DE2&text_color=fff)
+    &nbsp;
+    &nbsp;
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash26&theme=radical&title_color=8E2DE2&text_color=fff">
 </p>
 <br/>
 
