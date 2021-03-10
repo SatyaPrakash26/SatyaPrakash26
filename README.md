@@ -50,4 +50,5 @@ Passionate about writing code, solving problems, automating stuff, and building 
 </p>
 
 <br>
+⭐ From [SatyaPrakash26](https://github.com/SatyaPrakash26)
 <br>
