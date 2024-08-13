@@ -5,8 +5,12 @@
 
 ## About :sunglasses:
 
-Proficient Front-End Developer with 2 years of experience in building responsive, high-performance web applications using ReactJS, ReduxJS, and NodeJS. Expertise in creating scalable solutions with a focus on clean, maintainable code, rigorous form validation, and seamless state management. Dedicated to continuous learning and keeping pace with the latest technological advancements through hands-on projects and ongoing professional development.
+<p>Proficient Front-End Developer with 2 years of experience in building responsive, high-performance web applications using ReactJS, ReduxJS, and NodeJS. Expertise in creating scalable solutions with a focus on clean, maintainable code, rigorous form validation, and seamless state management. Dedicated to continuous learning and keeping pace with the latest technological advancements through hands-on projects and ongoing professional development.</p>
 
+<br>
+<br>
+
+    
 <h3 align="left">Languages and Tools:🛠️</h3>
 <p align="left"> 
 <li>Programming Languages: JavaScript, Java</li>
