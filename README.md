@@ -3,7 +3,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-## About :sunglasses:
+<h3 align="left">About :sunglasses:</h3>
 
 <p>Proficient Front-End Developer with 2 years of experience in building responsive, high-performance web applications using ReactJS, ReduxJS, and NodeJS. Expertise in creating scalable solutions with a focus on clean, maintainable code, rigorous form validation, and seamless state management. Dedicated to continuous learning and keeping pace with the latest technological advancements through hands-on projects and ongoing professional development.</p>
 
