@@ -5,12 +5,7 @@
 
 ## About :sunglasses:
 
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization GirlScript Summer Of Code. 
-Passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a CS student at BVPCOE,Pune.
-- 📚 I’m currently learning frontend web development using html,css,js and react.
-- 👯 I’m looking for a software development internship. 
+Proficient Front-End Developer with 2 years of experience in building responsive, high-performance web applications using ReactJS, ReduxJS, and NodeJS. Expertise in creating scalable solutions with a focus on clean, maintainable code, rigorous form validation, and seamless state management. Dedicated to continuous learning and keeping pace with the latest technological advancements through hands-on projects and ongoing professional development.
 
 <h3 align="left">Languages and Tools:🛠️</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
@@ -26,7 +21,7 @@ Passionate about writing code, solving problems, automating stuff, and building 
 </p>
 <br/>
 
-**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 Ask me about anything, and I'll be happy to help!** <br>
 **💬 My inbox is always open, Contact me**
 <br>
 <br>
